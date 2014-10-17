@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wum:home|Door43 (wum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wum|d43-wum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wum/archive/master.zip|d43-wum.zip]]
+
+**Recent Changes**
+{{changes>ns = wum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wum|Ethnologue data]]
+
